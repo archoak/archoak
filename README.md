@@ -1,6 +1,5 @@
 ### 🦖 🌋 oolong valley. 
 
-<!--
 **oo-long/oo-long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-![Metrics](https://metrics.lecoq.io/oo-long?template=classic&languages=1&isocalendar=1&followup=1&isocalendar.duration=full-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
